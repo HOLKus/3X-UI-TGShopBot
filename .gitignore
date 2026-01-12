@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+users.db
+*.db
+*.log
+.env
+nohup.out
+src/.env.example
+src/config.py
+src/users.db
+nohup.out
