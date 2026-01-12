@@ -1,5 +1,11 @@
 # 🚀 XRay VLESS/Reality Bot & Web Panel
 
+![CodeQL](https://github.com/HOLKus/3X-UI-TGShopBot/actions/workflows/codeql-analysis.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python)
+![Aiogram](https://img.shields.io/badge/aiogram-3.x-red?style=flat-square&logo=telegram)
+![GitHub last commit](https://img.shields.io/github/last-commit/HOLKus/3X-UI-TGShopBot?style=flat-square&color=6f42c1)
+![License](https://img.shields.io/github/license/HOLKus/3X-UI-TGShopBot?style=flat-square&color=28a745)
+
 Профессиональное решение для автоматизации продаж и управления VPN-доступом. Интегрируется с панелью **3x-ui** (протокол VLESS Reality).
 
 ## ✨ Основные функции
