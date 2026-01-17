@@ -27,7 +27,7 @@ Telegram бот (созданный через @BotFather)
 
 ## 1. Клонируйте репозиторий:
 ```bash
-git clone [https://github.com/HOLKus/3X-UI-TGShopBot.git](https://github.com/HOLKus/3X-UI-TGShopBot.git)
+git clone https://github.com/HOLKus/3X-UI-TGShopBot.git
 cd 3X-UI-TGShopBot
 ```
 
