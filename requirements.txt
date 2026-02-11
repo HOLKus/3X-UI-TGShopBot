@@ -29,7 +29,7 @@ narwhals==2.15.0
 numpy==1.26.4
 packaging==25.0
 pandas==2.1.4
-pillow==12.1.0
+pillow==12.1.1
 propcache==0.3.2
 protobuf==6.33.3
 psutil==7.2.1
